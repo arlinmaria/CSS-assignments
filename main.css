@@ -1,0 +1,132 @@
+/*  padding margin*/
+
+*{ margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+
+}
+
+header,nav,article,section,footer{
+	                             display: block;
+	                             color: white;
+	                             
+	                             }
+
+body{
+	background-color:  #141515;
+	color: white;
+}
+
+ .container{
+             width: 1200px;
+             margin: 0px auto;
+             border: 2px solid;
+             border-color: white;
+             height: 1200px;
+
+
+            } 
+  h1{
+  	float: left;
+  }
+
+   li a{
+  	float: left;
+  	color: white;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+    list-style-type: none;
+    display: block;
+
+  }
+  a{
+  	color: white;
+  }
+  
+  #img1{
+  	float: left;
+  	width: 1200px;
+  }
+  .leftside{
+  	float: left;
+  	color: white;
+  }
+  .rightside{
+  	float: left;
+  	color: white;
+  }
+  .clear{
+  	clear: both;
+  }
+  #div1{
+  	width: 400px;
+  	 line-height:15;
+}
+ #div9{
+  	width: 200px;
+  	 
+}
+#div7{
+  	width: 200px;
+  	 
+}
+
+.div2{
+	line-height: 5;
+}
+  .clthree{
+  	float: right;
+
+  }
+#div4{
+	line-height: 8;
+}
+
+  p{
+  	width: 380px;
+  	letter-spacing: 0.090em;
+  	 line-height: 1.5;
+  	 margin-left: 10px;
+
+  }
+  h4{
+  	margin-left: 8px;
+  }
+  
+
+.ai{
+	
+	margin-left:11px;
+}
+#p1{
+	line-height: 5;
+}
+.div3{
+	line-height: 10;
+}
+
+.div9{
+	line-height: 10;
+}
+.li{
+	line-height: 200%;
+}
+
+.imgp{
+	float: left;
+	width: 60px;
+	margin-left: 10px;
+}
+
+
+.imgps{
+	float: left;
+	width: 100px;
+}
+
+.pic{
+	float: left;
+	width: 100px;
+}
